@@ -130,12 +130,12 @@ me.say_hi()
 
 ```yaml
 Recent Certifications:
-  - "Jumpstart Python & Gen AI: Zero to Hero for Beginners" | Udemy (Apr 2025)
-  - "Introduction to IoT" | Simplilearn (Apr 2025)
-  - "Career Essentials in Generative AI" | Microsoft & LinkedIn (Nov 2024)
+  - "Jumpstart Python & Gen AI: Zero to Hero for Beginners" - Udemy (Apr 2025)
+  - "Introduction to IoT" - Simplilearn (Apr 2025)
+  - "Career Essentials in Generative AI" - Microsoft & LinkedIn (Nov 2024)
 
 Relevant Coursework:
-  - Data Structures (C++) | Operating Systems
+  - Data Structures (C/C++) | Operating Systems
   - Design & Analysis of Algorithms | IoT
   - Problem-Solving & Optimization
 ```
