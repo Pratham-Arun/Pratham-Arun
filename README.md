@@ -121,24 +121,24 @@ me.say_hi()
 <table align="right" border="0">
   <tr>
     <td>
-      <a href="https://www.linkedin.com/in/pratham-arun-814a8531a/">
+      <a href="https://www.linkedin.com/in/pratham-arun-814a8531a/" target="_blank">
         <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="125" alt="LinkedIn" />
       </a>
     </td>
     <td>
-      <a href="https://discord.com/channels/@710697958592610315">
+      <a href="https://discord.com/channels/@710697958592610315" target="_blank">
         <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="125" alt="Discord" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://www.instagram.com/pratham_arun/">
+      <a href="https://www.instagram.com/pratham_arun/" target="_blank">
         <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="125" alt="Instagram" />
       </a>
     </td>
     <td>
-      <a href="mailto:prathamarun7@gmail.com">
+      <a href="mailto:prathamarun7@gmail.com" target="_blank">
         <img src="https://i.ibb.co/8Dy5J7Mt/icons8-gmail-logo-192-ezgif-com-gif-maker.gif" width="125" alt="Gmail" />
       </a>
     </td>
