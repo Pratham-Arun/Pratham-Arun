@@ -121,7 +121,7 @@ me.say_hi()
 <table align="right" border="0">
   <tr>
     <td>
-      <a href="https://www.linkedin.com/in/pratham-arun-814a8531a/" target="_blank">
+      <a href="https://www.linkedin.com/in/pratham-arun/" target="_blank">
         <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="125" alt="LinkedIn" />
       </a>
     </td>
