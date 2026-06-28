@@ -2,7 +2,7 @@
   
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there, I'm Pratham Arun!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=650&lines=Aspiring+Software+Engineer;AI+%26+ML+Enthusiast;Innovating+Scalable+Tech+with+Purpose;Problem+Solver;3rd+Year+CSE+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=650&lines=Aspiring+Software+Engineer;AI+%26+ML+Enthusiast;Innovating+Scalable+Tech+with+Purpose;Problem+Solver;4th+Year+CSE+Student)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
