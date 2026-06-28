@@ -2,7 +2,7 @@
   
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there, I'm Pratham Arun!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=650&lines=Aspiring+Software+Engineer;AI+%26+ML+Enthusiast;Innovating+Scalable+Tech+with+Purpose;Problem+Solver;Pre-Final+Year+CSE+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=650&lines=Aspiring+Software+Engineer;AI+%26+ML+Enthusiast;Innovating+Scalable+Tech+with+Purpose;Problem+Solver;3rd+Year+CSE+Student)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
@@ -21,16 +21,18 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Pratham Arun"
         self.role = "B.Tech CSE Student @ SRM Institute of Science and Technology"
-        self.year = "3rd Year"
+        self.year = "4th Year"
+        self.cgpa = "8.47"
         self.location = "Noida, Uttar Pradesh"
         self.experience = {
-            "Web Development Intern": "CEI America",
-            "AI Intern": "Edunet Foundation (Microsoft & SAP)"
+            "AI Intern": "Computer Enterprises, Inc. (CEI)",
+            "Web Development Intern": "Computer Enterprises, Inc. (CEI)"
         }
     
     def get_current_focus(self):
         return [
-            "Building innovative tech solutions",
+            "Building AI-powered apps with LangChain, LangGraph & RAG pipelines",
+            "Researching Explainable AI for Judicial Verdict Classification",
             "Contributing to open-source projects",
             "Exploring Cloud Technologies (Azure)"
         ]
@@ -54,9 +56,9 @@ me.say_hi()
 
 <img src="https://s12.gifyu.com/images/bhyBa.gif" align="right" width="250" />
 
-### 🔭 **Currently Working On:** AI/ML concepts and algorithms
-### 🌱 **Learning:** AI Tools, Cutting-edge technologies and frameworks
-### 🎯 **2026 Goals:** Contributing to innovative open-source projects
+### 🔭 **Currently Working On:** AI-powered Health Assistant & RAG pipelines using LangChain, LangGraph and Google Gemini
+### 🌱 **Learning:** AI/ML concepts, Explainable AI (XAI), and frameworks
+### 🎯 **2026 Goals:** Presented research at ICMCE-2026 & now contributing to more innovative open-source projects
 ### 💡 **Passion:** Creating intelligent solutions that solve real-world problems
 ### 🤝 **Open to:** Internships, collaborations, and exciting tech opportunities
 ### ⚡ **Fun fact:** I believe every bug is just an undocumented feature!
@@ -83,21 +85,27 @@ me.say_hi()
 ### Frameworks & Technologies
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Cloud & Tools
+
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Developer Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### AI/ML Libraries
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
+### AI/ML & Data Science
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-027CC4?style=for-the-badge&logo=xgboost&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 </div>
 
 
@@ -153,4 +161,3 @@ me.say_hi()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00F7F7,7000FF&height=100&section=footer" width="100%"/>
 </div>
-
