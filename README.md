@@ -56,7 +56,7 @@ me.say_hi()
 
 <img src="https://s12.gifyu.com/images/bhyBa.gif" align="right" width="250" />
 
-### 🔭 **Currently Working On:** AI-powered Health Assistant & RAG pipelines using LangChain, LangGraph and Google Gemini
+### 🔭 **Currently Working On:** FinanceOS & RAG pipelines using LangChain, LangGraph and Google Gemini
 ### 🌱 **Learning:** AI/ML concepts, Explainable AI (XAI), and frameworks
 ### 🎯 **2026 Goals:** Presented research at ICMCE-2026 & now contributing to more innovative open-source projects
 ### 💡 **Passion:** Creating intelligent solutions that solve real-world problems
